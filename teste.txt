@@ -1,0 +1,10 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ E4C9-546B
+
+ Pasta de C:\Users\Murillo Fagundes\eclipse-workspace\exercicios_github
+
+13/09/2020  11:06    <DIR>          .
+13/09/2020  11:06    <DIR>          ..
+13/09/2020  11:06                 0 teste.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   380.503.646.208 bytes dispon¡veis
